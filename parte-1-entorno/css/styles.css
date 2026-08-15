@@ -88,3 +88,10 @@ footer {
     font-size: 0.875rem;
     opacity: 0.92;
 }
+
+/* Hover en secciones */
+section:hover {
+    border-left-color: #065A82;
+    background-color: #E8F4F8;
+    transition: background-color 0.3s ease;
+}
